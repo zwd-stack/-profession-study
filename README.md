@@ -1,2 +1,2 @@
 # -profession-study
-大数据专业本科学习
+基于UCI数据集的学生表现预测
